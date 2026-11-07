@@ -1,0 +1,1 @@
+var json_TitikAsal_1 = {"type":"FeatureCollection","name":"TitikAsal_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"x":111.45814,"y":-7.86969,"keterangan":"Perumahan Graha Savana"},"geometry":{"type":"Point","coordinates":[111.458136248,-7.8696899022]}}]}
